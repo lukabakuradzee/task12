@@ -1,0 +1,37 @@
+@media (max-width: 1200px) {
+  .container {
+    padding: 50px 0% 50px 0%;
+    flex-direction: column-reverse;
+    align-items: center;
+    row-gap: 80px;
+  }
+
+  .div_photo {
+    width: 60%;
+    height: 600px;
+  }
+
+  .registration_box {
+    width: 80%;
+    align-items: center;
+  }
+
+  .joinus_text {
+    text-align: center;
+  }
+
+
+  .joinus_paragraph {
+    width: 500px;
+    text-align: center;
+  }
+
+  .signup_box_google {
+    width: 320px;
+    margin-inline: auto;
+  }
+
+  .submit_button {
+    margin-inline: auto;
+  }
+}
