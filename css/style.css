@@ -51,6 +51,8 @@ body {
   color: #ffc400;
 }
 
+
+
 .joinus_paragraph {
   color: #94a3b8;
   font-family: "Poppins";
@@ -102,6 +104,10 @@ input {
   border-radius: 35px;
   color: white;
   margin-bottom: 24px;
+}
+
+input:focus {
+  color: #ffc400;
 }
 
 ::placeholder {
