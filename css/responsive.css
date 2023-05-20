@@ -7,16 +7,15 @@
   }
 
   .div_photo {
-    width: 60%;
+    width: 90%;
     height: 600px;
   }
 
   .registration_box {
-    width: 80%;
-    align-items: center;
+    width: 90%;
   }
 
-  .joinus_text {
+  /* .joinus_text {
     text-align: center;
   }
 
@@ -33,5 +32,5 @@
 
   .submit_button {
     margin-inline: auto;
-  }
+  } */
 }
